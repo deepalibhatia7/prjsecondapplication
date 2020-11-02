@@ -1,0 +1,7 @@
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 2\PrjSecondApplication\AssignmentDay2\bin\Debug\AssignmentDay2.exe.config
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 2\PrjSecondApplication\AssignmentDay2\bin\Debug\AssignmentDay2.exe
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 2\PrjSecondApplication\AssignmentDay2\bin\Debug\AssignmentDay2.pdb
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 2\PrjSecondApplication\AssignmentDay2\obj\Debug\AssignmentDay2.csprojAssemblyReference.cache
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 2\PrjSecondApplication\AssignmentDay2\obj\Debug\AssignmentDay2.csproj.CoreCompileInputs.cache
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 2\PrjSecondApplication\AssignmentDay2\obj\Debug\AssignmentDay2.exe
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 2\PrjSecondApplication\AssignmentDay2\obj\Debug\AssignmentDay2.pdb
